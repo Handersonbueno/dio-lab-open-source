@@ -120,6 +120,16 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+## Convenção de Commits
+
+> **Sua sugestão está relacionada a um problema? Por favor, descreva. ** Não.
+> 
+> **Descreva a solução que você gostaria** Adicione informações referentes à padronização das mensagens dos commits no Guia de Contribuição
+> 
+> **Descreva as alternativas que você sempre deseja** Inserir uma tabela demonstrando os tipos de commits e uma descrição a respeito de seu uso.
+> 
+> **Contexto adicional** N/A.
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
